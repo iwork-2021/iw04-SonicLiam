@@ -1,3 +1,8 @@
+# 实验结果
+4-1:confidence小于0.6时显示I'm Not Sure，测试结果基本符合实际。
+4-2:完成数据集改造，训练结果基本符合实际。
+相机识别功能在部分iOS机型上无法正常开启；在m1芯片的机型上运行时会出现Could not create inference context"报错，目前判断为为m1特有bug。
+
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6453774&assignment_repo_type=AssignmentRepo)
 # iw04
 iOS assignment 4: Image Classification App.
